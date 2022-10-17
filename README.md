@@ -5,7 +5,7 @@
 <p>Specially interested in <b>Computer Graphics</b>, <b>Artificial Intelligence</b> and <b>Real-time simulations</b>
 </em>
 
-
+ 
 ![Metrics](github-metrics.svg)
 
 [![Linkedin: Diego Revilla](https://img.shields.io/badge/-Diego%20Revilla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegorr/)]([https://www.linkedin.com/in/jon-lara-trigo-965ab898/](https://www.linkedin.com/in/diegorr/))
