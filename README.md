@@ -2,7 +2,7 @@
 <img align='right' src="https://i.imgur.com/HUUHUzo.png" width="230">
 <p><em>Computer Engineering + Data Science and Artificial Inteligence Student at the University of Deusto
 </em></p>
-<p>Specially interested in <b>Computer Graphics</b>, <b>Artificial Intelligence</b> and <b>Real-Time Simulations</b>
+<p>Specially interested in <b>Computer Graphics</b>, <b>Natural Language Processing</b> and <b>Robotics</b>
 </em>
 
  
